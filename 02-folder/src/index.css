@@ -14,3 +14,9 @@ html,body{
   margin:20px;
   padding: 10px;
 }
+.navbar{
+  background-color: lightblue;
+  padding:20px;
+  text-decoration: none;
+  margin:5px;
+}
